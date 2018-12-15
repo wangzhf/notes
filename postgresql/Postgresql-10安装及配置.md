@@ -433,6 +433,19 @@ testdb=>
    ```
 
 
+
+## pgAdmin
+
+前面我们都是采用命令行的形式来操作表，我们还是需要一个图形化的界面来方便操作。`pgAdmin`是Postgresql官方出品的一个图形化管理工具（基于浏览器的web页面），我们可以从这里下载：[pgAdmin](https://www.pgadmin.org/download/) 
+
+
+
+### 安装
+
+参考：https://wiki.postgresql.org/wiki/Apt
+
+
+
 ## 控制台命令
 
 ```shell
